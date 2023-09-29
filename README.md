@@ -16,6 +16,10 @@ To create a terminal-based Rocket Launch Simulator. The goal is to simulate a ro
 ## Technology
 * Programming Language  - **Rust**
 
+## How To Run 
+* Go to the root directory of the folder in terminal. For example "C:\some_folder\rocket_launch_simulator".
+* After that type "cargo run" in terminal.
+
 ## User Input
 1. "start_checks" :  to initiate system checks. 
 2. "launch" : to begin the mission after checks are complete.
