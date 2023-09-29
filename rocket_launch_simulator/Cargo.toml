@@ -1,0 +1,9 @@
+[package]
+name = "rocket_launch_simulator"
+version = "0.1.0"
+edition = "2021"
+author = "Naitik Makawana"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
