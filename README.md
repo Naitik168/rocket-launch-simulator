@@ -31,5 +31,20 @@ To create a terminal-based Rocket Launch Simulator. The goal is to simulate a ro
 * Code is highly self explanatory and easy to understand.
 * Changes can be made as per requirement.
 
+## Outputs 
 
+***
+* Input : start_checks
+*  Output : 
+![Screenshot](https://github.com/Naitik168/rocket-launch-simulator/blob/main/output-images/start_checks.png)
+
+***
+* Input : launch
+* Output :
+![Screenshot](https://github.com/Naitik168/rocket-launch-simulator/blob/main/output-images/launch.png)
+
+***
+* Input : fast_forward 6 
+* Output :
+![Screenshot](https://github.com/Naitik168/rocket-launch-simulator/blob/main/output-images/fast_forwarding.png)
 
