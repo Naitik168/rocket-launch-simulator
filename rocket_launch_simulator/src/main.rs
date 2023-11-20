@@ -207,7 +207,7 @@ fn main() {
         },
         
         //exception handling
-        _ => println!("Invalid command. Please enter 'pre_launch_checks' to check your system first"),
+        _ => println!("Invalid command. Please enter 'start_checks' to check your system first"),
     }
     
 }
