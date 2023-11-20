@@ -38,8 +38,9 @@ impl RocketLaunchSimulator {
 
         if self.stage == "Pre-Launch" && self.fuel == 100 && self.altitude == 0 && self.speed == 0 {
             status = true;
+            println!("All systems are 'Go' for launch.");
         }
-        println!("All systems are 'Go' for launch.");
+        
         return status;
     }
 
